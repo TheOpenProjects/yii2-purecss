@@ -1,5 +1,5 @@
 {
-    "name": "reine/yii2-purecss",
+    "name": "virtualwonders/yii2-purecss",
     "description": "Pure CSS for Yii2",
 	"keywords": ["yii2", "php"],
     "type": "yii2-extension",
@@ -18,7 +18,7 @@
     },
 	"autoload": {
 		"psr-4": {
-			"Reine\\PureCSS\\": "src"
+			"virtualwonders\\PureCSS\\": "src"
 		}
 	}
 }
