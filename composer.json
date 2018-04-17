@@ -13,8 +13,7 @@
 	"minimum-stability": "stable",
     "require": {
 		"php": ">=5.6.0",
-        "yiisoft/yii2": "~2.0.6",
-		"yahoo/purecss": "^0.6.2"
+        "yiisoft/yii2": "~2.0.6"
     },
 	"autoload": {
 		"psr-4": {
